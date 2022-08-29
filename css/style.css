@@ -2175,6 +2175,7 @@ p {
 /* ---------------------------------------------------------------- */
 .faq {
 	overflow: visible;
+	background-color: #0033CC;
 }
 .faq .container {
 	background: #fff;
